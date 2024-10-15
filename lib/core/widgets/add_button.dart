@@ -15,7 +15,7 @@ class AddButton extends StatelessWidget {
         ),
         minimumSize: const Size.fromHeight(50),
       ),
-      child: const Text('Add New Word'),
+      child: const Text('Add'),
     );
   }
 }
